@@ -90,7 +90,4 @@ Each visualization is clean, labeled, and designed to communicate insights quick
 ### 📌 **4. Engagement Patterns**
 - Engagement score strongly correlates with **clicks**.  
 - Campaigns with 6+ days duration perform better overall.
-
----
-
-## 🧭 Folder Structure  
+ 
